@@ -9,3 +9,5 @@ payload:
 - PROCESS-NAME,Agent
 - PROCESS-NAME,Battle.net
 - PROCESS-NAME,Battle.net Helper
+- PROCESS-NAME,World of Warcraft
+- PROCESS-NAME,World of Warcraft Classic
